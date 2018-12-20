@@ -43,15 +43,62 @@
           <p style="font-size:15px; line-height:30px">Last, but not least, start dusting off your  rad 80's outfit for the After Party! The word on the street is that there will be roller skates involved. Don't say we didn't prepare you! ;)</p>
         </mj-text>
 
-        <mj-button background-color="#1288D5" padding="25px 20px 20px 20px" font-size="18px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
+        <mj-button background-color="#2A2A2A" padding="25px 20px 20px 20px" font-size="15px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
           Register Here
         </mj-button>
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column border-bottom="1px solid #DBDBDB"></mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- speaker -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="12px 0px 0px 0px">
+      <mj-column>
+        <mj-text font-family="Roboto" text-transform="uppercase" align="center">
+          <h2 style="letter-spacing:2px; font-size:18px;">New Speakers</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-section background-color="#ffffff" padding="20px 10px 20px 10px">
+      <mj-group>
 
+        <mj-column padding="0px 10px 0px 10px">
+          <mj-image src="https://i.postimg.cc/4N195Xpv/speaker6.jpg" width="300px" height="200px"/>
+          <mj-text font-family="Roboto" font-size="15px" line-height="7px">
+            <h3>Tara Victoria</h3>
+            <p>Designer</p>
+            <br>
+            <p style="line-height:30px">Tara is the founder of Hatch & Harbour Design Studio in Calgary, Alberta, Canada, where she specializes in branding and print media as she works with small businesses that have a big passion for creating lasting and meaningful brands. Tara is also the author of a widely-read blog that focuses on design and fitness, two of Tara’s favorite things.</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding="0px 10px 0px 10px">
+          <mj-image src="https://i.postimg.cc/7YJgq1kh/speaker5.jpg" width="300px" height="200px"/>
+          <mj-text font-family="Roboto" font-size="15px" line-height="7px">
+            <h3>Tad Carpenter</h3>
+            <p>Designer & Illustrator</p>
+            <br>
+            <p style="line-height:30px">Tad Carpenter is an illustrator, designer, and teacher. His first book was Sad Santa (Sterling) and he has worked with Macy's, Adobe, Target, MTV, Hallmark Cards, Nick Jr., and Publix, to name a few. He feels very lucky to draw, paint, and create for a living. Tad lives in sunny, snowy, and forever-changing Kansas City, MO, with his wife, Jessica, who is also a graphic designer.</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-button background-color="#2A2A2A" padding="25px 20px 20px 20px" font-size="15px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
+          More Speakers
+        </mj-button>
+      </mj-column>
+    </mj-section>
 
 
 

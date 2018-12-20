@@ -1,0 +1,30 @@
+<!-- if owa is set to "desktop", it will force desktop version of email to display on outlook. Otherwise outlook will display mobile version since it ignores media queries -->
+<mjml owa="desktop">
+
+  <mj-head>
+    <!-- This tag allows you to set the title of an MJML document -->
+    <mj-title>UX London Conference 2019</mj-title>
+
+    <!-- This tag allows you to set the preview that will be displayed in the inbox of the recipient. -->
+    <mj-preview>UX London welcomes you to it's 2019 Conference for UX designers</mj-preview>
+
+    <!-- This tag allows you to import fonts if used in your MJML document -->
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" />
+
+    <!-- This tag allows you to modify default attributes on a mj-tag and add mj-class to them. -->
+    <mj-attributes>
+      <mj-all padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+
+    <mj-section>
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>

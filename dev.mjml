@@ -19,11 +19,45 @@
 
   <mj-body background-color="#ffffff">
 
-    <mj-section>
+    <mj-raw>
+      <!-- hero iamge -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
       <mj-column>
-        
+        <mj-image src="https://i.postimg.cc/1tdHThCv/hero.jpg" alt="UX London starts 29-31 May 2019"/>
       </mj-column>
     </mj-section>
+
+    <mj-raw>
+      <!-- introduction -->
+    </mj-raw>
+    <mj-section  background-color="#ffffff" padding="30px 20px 20px 20px">
+      <mj-column>
+        <mj-text font-family="Roboto">
+          <h2 style="font-size:30px">Hi There,</h2>
+
+          <p style="font-size:15px; line-height:30px">We can't believe it's already April 15th, which means UX London is one month away. We have some exciting things in store and can't wait to share them with you! We have a few Main passes left, the Hangout Pass and Live Streaming Pass are now available. <a href="https://2019.uxlondon.com/">Click here to learn more.</a></p>
+
+          <p style="font-size:15px; line-height:30px">Don't forget about our <a href="https://2019.uxlondon.com/">hands-on workshops!</a> This is a great opportunity to learn from some of the industry top designers and creatives throughout our eight different workshops you may choose to glean from.  Feel free to perfect your ideal class schedule because you have the ability to mix and match from all eight!  Super fun, right? </p>
+
+          <p style="font-size:15px; line-height:30px">Last, but not least, start dusting off your  rad 80's outfit for the After Party! The word on the street is that there will be roller skates involved. Don't say we didn't prepare you! ;)</p>
+        </mj-text>
+
+        <mj-button background-color="#1288D5" padding="25px 20px 20px 20px" font-size="18px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
+          Register Here
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
+
+
+
 
   </mj-body>
 

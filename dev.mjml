@@ -94,17 +94,55 @@
 
     <mj-section>
       <mj-column>
-        <mj-button background-color="#2A2A2A" padding="25px 20px 20px 20px" font-size="15px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
+        <mj-button background-color="#2A2A2A" padding="25px 20px 40px 20px" font-size="15px" font-family="Roboto" text-transform="uppercase" href="https://2019.uxlondon.com/">
           More Speakers
         </mj-button>
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column border-bottom="1px solid #DBDBDB"></mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- speard the word -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="12px 0px 0px 0px">
+      <mj-column>
+        <mj-text font-family="Roboto" text-transform="uppercase" align="center">
+          <h2 style="letter-spacing:2px; font-size:18px;">Speard the word</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- social media -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 0px 30px 0px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element href="#" src="https://i.postimg.cc/3x9ff7nh/facebook.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/nLzR65PD/instagram.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/5tR713hk/twitter.png" padding="0px 12px 0 12px"></mj-social-element>
+          <mj-social-element href="#" src="https://i.postimg.cc/76JBLzDP/youtube.png" padding="0px 12px 0 12px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
 
-
-
+    <mj-raw>
+      <!-- footer -->
+    </mj-raw>
+    <mj-section background-color="#DBDBDB" padding="30px">
+      <mj-column>
+          <mj-text font-family="Roboto" font-size="12px" align="center">
+            <p>You received this mail because your either awesome or subscribed to our <a href="https://2019.uxlondon.com/">site</a> </p>
+            <p> <a href="https://2019.uxlondon.com/">Edit your subscription</a> or <a href="https://2019.uxlondon.com/">Unsubscribe</a> </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 
